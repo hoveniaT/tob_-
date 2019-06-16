@@ -1,6 +1,6 @@
 # 제품 'tob'
 
-![github_tob@3x](https://user-images.githubusercontent.com/42813286/59561232-c5b4e800-9058-11e9-8977-f2f85cf1071e.png)
+<img src=https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png width="60%" height="60%">
 
 ![5부품](https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg)
 ![1정면](https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg)
