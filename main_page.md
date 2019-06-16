@@ -1,6 +1,6 @@
 # tob_-
 
-<img width="1780.5" height="1786">![github_tob@3x](https://user-images.githubusercontent.com/42813286/59561232-c5b4e800-9058-11e9-8977-f2f85cf1071e.png)</img>
+![github_tob@3x](https://user-images.githubusercontent.com/42813286/59561232-c5b4e800-9058-11e9-8977-f2f85cf1071e.png)
 
 -------------------------------------
 # 앱 '오늘'
