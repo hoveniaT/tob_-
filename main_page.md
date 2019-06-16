@@ -1,6 +1,6 @@
 # 제품 'tob'
-### 하나님이 이르시되 빛이 있으라 하시니 빛이 있었고 빛이 하나님이 보시기에 좋았더라(창세기 1장 4-5절)
-### Tob: 히브리어 토브(Tob)는 '좋다, 아름답다, 온전하다, 선하다'는 의미이다.
+###### 하나님이 이르시되 빛이 있으라 하시니 빛이 있었고 빛이 하나님이 보시기에 좋았더라(창세기 1장 4-5절)
+###### Tob: 히브리어 토브(Tob)는 '좋다, 아름답다, 온전하다, 선하다'는 의미이다.
 
 <img src=https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg width="60%" height="60%">
