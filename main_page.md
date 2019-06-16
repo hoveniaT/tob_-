@@ -7,6 +7,8 @@
 <img src=https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png width="60%" height="60%">
 
+__<시행착오>__
+
 1. 층층이 끼워지는 부분이 레이저 커팅으로 조금 더 태워져 두께가 달라져 헐거워지는 문제가 있다. 레이저 커팅을 하면서 생기는 오차를 고려해야 한다.
 
 2. 서로 다른 면을 결합하는 부분이 너무 좁은 간격으로 만들어 단단히 결합되기 위해서는 다른 장치를 유지해야 한다.
