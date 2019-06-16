@@ -4,6 +4,16 @@
 
 ![5부품](https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg)
 
+![1정면](https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg)
+
+![2십자가탑](https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg)
+
+![3측면](https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg)
+
+![4윗면](https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg)
+
+
+
 -------------------------------------
 # 앱 '오늘'
 
