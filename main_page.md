@@ -1,13 +1,14 @@
 # 제품 'tob'
 
-<img src=https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png width="60%" height="60%">
-
 <img src=https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg width="60%" height="60%">
 <img src=https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg width="60%" height="60%">
-
+<img src=https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png width="60%" height="60%">
+1. 층층이 끼워지는 부분이 레이저 커팅으로 조금 더 태워져 두께가 달라져 헐거워지는 문제가 있다.  
+2. 서로 다른 면을 결합하는 부분이 너무 좁은 간격으로 만들어 단단히 결합되기 위해서는 다른 장치를 유지해야 한다.  
+3. 글씨를 파내기 위해서는 ㅁ,ㅂ,ㅇ,ㅍ,ㅎ과 같은 자음의 이어지는 부분을 고려하여 이음선을 만들어 주어야 한다.  
 
 
 -------------------------------------
